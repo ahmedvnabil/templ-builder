@@ -1,0 +1,19 @@
+Social Feed Preview Builder - Screenshots Guide
+
+Capture the following screenshots in a standard WordPress environment (preferably with an RTL-adapted theme or Arabic site setup where noted):
+
+1. admin-settings.png
+   - Capture path: Settings > Social Feed Preview
+   - Detail: Show options fields (radius slider, shadow styles selects, and custom CSS enqueuer).
+
+2. shortcode-builder.png
+   - Capture path: Tools > Social Feed Preview
+   - Detail: Show Shortcode Builder options with live shortcode generated output.
+
+3. frontend-grid.png
+   - Capture path: Frontend page rendering [social_feed_preview]
+   - Detail: Show a 3-column responsive card layout displaying multiple platform cards.
+
+4. mobile-rtl.png
+   - Capture path: Frontend page on mobile viewport width (<600px) with RTL language activated
+   - Detail: Show vertical cards with right-to-left flowing texts and Arabic typography.

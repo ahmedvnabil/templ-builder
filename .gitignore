@@ -1,0 +1,23 @@
+# OS metadata
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# System logs and temp files
+*.log
+*.tmp
+*.bak
+*~
+
+# ZIP archives (release artifacts should not be committed)
+*.zip
+
+# IDEs and Editors
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp

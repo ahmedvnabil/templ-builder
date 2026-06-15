@@ -1,0 +1,11 @@
+Social Feed Preview Builder - Banner Specification
+
+Dimensions: 1544x500 pixels (WordPress.org / GitHub Asset style)
+File Format: PNG
+
+Design instructions:
+1. Use HSL-tailored brand colors representing platforms (Facebook Blue, Instagram Gradient, TikTok Pink, X Dark).
+2. Showcase a layout preview of multiple card decks side-by-side.
+3. Keep the background clean (soft grey or Sleek dark mode) with a light grid overlay.
+4. Overlay the primary headline in bold, clean typography: "Social Feed Preview Builder"
+5. Add a sub-headline: "Simulate Sleek social cards locally in WordPress. Fast, secure, and RTL-friendly."

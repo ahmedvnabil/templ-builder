@@ -1,0 +1,9 @@
+Social Feed Preview Builder - Icon Specification
+
+Dimensions: 256x256 pixels
+File Format: PNG
+
+Design instructions:
+1. Draw a modern clean share node or grid preview card representation.
+2. Use a vibrant HSL-derived color gradient.
+3. Keep the graphic simple, scalable, and recognizable on dark/light background grids.
