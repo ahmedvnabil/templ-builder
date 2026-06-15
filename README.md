@@ -24,6 +24,22 @@ The plugin feels like a mini **11ty-style template/content system** inside WordP
 
 ---
 
+## 📸 Screenshots
+
+1. **Admin Settings & Editor Metabox**  
+   ![Admin Settings Panel](screenshots/admin-settings.png)  
+   *The tabbed custom fields metabox where templates visual settings, CTA buttons, and structured JSON fields are entered.*
+
+2. **Interactive Live Shortcode Builder**  
+   ![Interactive Shortcode Builder](screenshots/shortcode-builder.png)  
+   *Real-time shortcode config builder and clipboard copy triggers inside the WordPress Tools panel.*
+
+3. **Frontend Responsive Grid**  
+   ![Frontend Responsive Grid](screenshots/frontend-grid.png)  
+   *Rendered cards representing inspired SaaS software solutions enqueued in a grid.*
+
+---
+
 ## 📂 Repository File Tree
 ```text
 templ-builder/
